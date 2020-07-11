@@ -1,4 +1,6 @@
-### Hi there 👋
+### The Ayatollah of Rock N Rollah
+
+![lazybaer](https://s.gravatar.com/avatar/e68a8dbaf1555f955d36a12a5fd21523?s=200)
 
 <!--
 **cwdcwd/cwdcwd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
