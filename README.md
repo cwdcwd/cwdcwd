@@ -1,14 +1,13 @@
 ### The Ayatollah of Rock N Rollah
 ![lazybaer](https://s.gravatar.com/avatar/e68a8dbaf1555f955d36a12a5fd21523?s=200)
 
-- #### VP of Technology at [Torc](https://www.opentorc.com)
+- #### Principal Software Engineer at [Everyrealm](https://www.everyrealm.com]
 - #### Founder of [Subter](https://www.subter.io)
 - #### Seasoned technologist and Crowd Sourcer
 
-While I still sling a fair amount of code for fun and profit my focus these days is on Innovation, Crowd Sourcing, and the Future of Work. 
+While I still sling a fair amount of code for fun and profit my focus these days is on Innovation, Crowd Sourcing, the Future of Work, and the Metaverse. 
 
 I believe decentralized systems are the future and that cryptography is the key to privacy, innovation, and a free society.
-
 
 
 ![subter](https://user-images.githubusercontent.com/1504607/156224467-5c830bfb-1cc9-4065-92a2-517b40656714.png)
