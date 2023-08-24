@@ -1,7 +1,7 @@
 ### The Ayatollah of Rock N Rollah
 ![lazybaer](https://s.gravatar.com/avatar/e68a8dbaf1555f955d36a12a5fd21523?s=200)
 
-- #### Principal Software Engineer at [Everyrealm](https://www.everyrealm.com)
+- #### Head of Engineering Innovation at [Everyrealm](https://www.everyrealm.com)
 - #### Founder of [Subter](https://www.subter.io)
 - #### Seasoned technologist and Crowd Sourcer
 
