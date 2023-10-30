@@ -1,4 +1,4 @@
-### The Ayatollah of Rock N Rollah
+### Multi-skilled Technologist, cryptography lover, and microcontroller enthusiast
 ![lazybaer](https://s.gravatar.com/avatar/e68a8dbaf1555f955d36a12a5fd21523?s=200)
 
 - #### Head of Engineering Innovation at [Everyrealm](https://www.everyrealm.com)
