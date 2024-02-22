@@ -1,9 +1,9 @@
 ### Multi-skilled technologist, cryptography lover, generative AI tinkerer, and microcontroller enthusiast
 ![lazybaer](https://s.gravatar.com/avatar/e68a8dbaf1555f955d36a12a5fd21523?s=200)
 
-- #### Head of Engineering Innovation at [Everyrealm](https://www.everyrealm.com)
 - #### Founder of [Subter](https://www.subter.io)
 - #### Seasoned technologist and Crowd Sourcer
+- #### General Tinkerer and IoT lover
 
 While I still sling a fair amount of code for fun and profit my focus these days is on Innovation, Crowd Sourcing, the Future of Work, and the Metaverse. 
 
