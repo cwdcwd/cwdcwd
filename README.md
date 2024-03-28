@@ -3,7 +3,7 @@
 
 - #### CTO & CoFounder of [Ursa Science](https://www.ursascience.com/)
 - #### Founder of [Subter](https://www.subter.io)
-- #### Seasoned technologist and Crowd Sourcer
+- #### [Seasoned technologist and Crowd Sourcer](https://www.lazybaer.com/)
 - #### General Tinkerer and IoT lover
 
 While I still sling a fair amount of code for fun and profit my focus these days is on Innovation, Crowd Sourcing, the Future of Work, and the Metaverse. 
