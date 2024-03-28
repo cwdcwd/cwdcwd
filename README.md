@@ -1,6 +1,7 @@
 ### Multi-skilled technologist, cryptography lover, generative AI tinkerer, and microcontroller enthusiast
 ![lazybaer](https://s.gravatar.com/avatar/e68a8dbaf1555f955d36a12a5fd21523?s=200)
 
+- #### CTO & CoFounder of [Ursa Science](https://www.ursascience.com/)
 - #### Founder of [Subter](https://www.subter.io)
 - #### Seasoned technologist and Crowd Sourcer
 - #### General Tinkerer and IoT lover
